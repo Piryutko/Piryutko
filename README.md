@@ -42,5 +42,3 @@
 <p align="center"> 
 https://github.com/Piryutko/Marketplace
 <p align="center">
- <br>
-- 💬 Спроси меня о: .NET, C#, ООП, SOLID, KISS, DRY, LINQ, MVC, guard-библиотека, работа с nuget, работа с Json, система контроля версия (git), unit тестирование, MS SQL, ADO.NET, Entity Framework, паттерны проектирования, алгоритмы.
