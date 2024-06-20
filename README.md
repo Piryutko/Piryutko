@@ -16,8 +16,9 @@
 
 <p align="center"> 
  <strong>
-  Навыки
+Навыки
   </strong>
+ <p align="center"> 
 </p>
 
 <p align="center"> 
@@ -29,11 +30,23 @@
 <p align="center"> 
  <strong>
   Достижения :trophy:
+  <p align="center">
   </strong>
 </p>
                  
 <p align="center"> 
 <a href="https://www.youtube.com/watch?v=2_J7-0AcMMg&t=45s">ТОП 5 победитель IT контеста от МТС 2023</a>
+ <p align="center"> 
+  <p align="center">
+ <strong>
+  Проекты &#128104;&#8205;&#128187;
+  </strong>
+   <p align="center">
+<p align="center"> 
+<a href="https://github.com/Piryutko/Marketplace">Marketplace</a>
+<p align="center">
+ <a href="https://gifyu.com/image/SrwsE"><img src="https://s12.gifyu.com/images/SrwsE.gif" alt="TestGif (1)" border="0" /></a>
+</p>
 <p align="center"> 
  <strong>
   Текущая разработка &#128640;
