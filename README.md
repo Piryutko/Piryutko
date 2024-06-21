@@ -40,18 +40,20 @@
   <p align="center">
  <strong>
   Проекты &#128104;&#8205;&#128187;
-  </strong>
+ </strong>
    <p align="center">
 <p align="center"> 
 <a href="https://github.com/Piryutko/Marketplace">Marketplace</a>
 <p align="center">
- <a href="https://gifyu.com/image/SrwsE"><img src="https://s12.gifyu.com/images/SrwsE.gif" alt="TestGif (1)" border="0" /></a>
 </p>
+<p align="center">
+<img src="https://github.com/Piryutko/gif_public/blob/master/SrwsE.gif" alt="gif" title="gif" width="800"/>
 <p align="center"> 
  <strong>
   Текущая разработка &#128640;
   </strong>
-</p>
-<p align="center"> 
-https://github.com/Piryutko/Marketplace
-<p align="center">
+ <p>
+  <p align="center">
+   <strong>
+  Скоро...
+ </p>
