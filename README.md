@@ -1,4 +1,4 @@
- <h1 align="center">Привет,
+<h1 align="center">Привет,
  </br>я Максим👋 
  </br>C# back-end разработчик</h1>
  
@@ -13,12 +13,14 @@
 <p align="center"> 
 <a href="https://www.youtube.com/watch?v=2_J7-0AcMMg&t=45s">ТОП 5 победитель IT контеста от МТС 2023</a>
 <p align="center"> 
-
+</p>
 <p align="center">
 <strong>
-Проекты &#128104;&#8205;&#128187;
+Проекты
 </strong>
-<p align="center"><a href="https://github.com/Piryutko/Marketplace">Marketplace</a></p>
+ <p align="center">
+<a href="https://github.com/Piryutko/Marketplace">Marketplace</a>
+</p>
 
 <p align="center">
 <img src="https://github.com/Piryutko/gif_public/blob/master/Gif2.gif" alt="gif" title="gif" width="800"/>
