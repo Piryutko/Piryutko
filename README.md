@@ -25,7 +25,7 @@
 <img src="https://github.com/Piryutko/gif_public/blob/master/Gif2.gif" alt="gif" title="gif" width="800"/>
 <p align="center"> 
  <p align="center">
-<a href="https://github.com/Piryutko/Marketplace">Music WebSite</a>
+<a href="https://github.com/Piryutko/Music_WebSite">Music WebSite</a>
 </p>
 <p align="center">
 <img src="https://github.com/Piryutko/gif_public/blob/master/Music_Gif.gif" alt="music_gif" title="gif" width="800"/>
