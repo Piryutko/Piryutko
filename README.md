@@ -1,7 +1,7 @@
 <div align="center">
-
-# Привет, я Максим 👋
-### C# Back-end Разработчик
+  
+### Piryutko Maxim
+#### Project manager
 
 ---
 
@@ -12,8 +12,8 @@
 
 ### 🛠 Проекты
 
-#### [Marketplace API](https://github.com/Piryutko/Marketplace)
-![Marketplace Preview](https://github.com/Piryutko/gif_public/blob/master/Gif2.gif)
+#### [TaskWave-AI](https://github.com/Piryutko/TaskWave-AI)
+![TaskWave-AI](---)
 
 #### [Marketplace API](https://github.com/Piryutko/Marketplace)
 ![Marketplace Preview](https://github.com/Piryutko/gif_public/blob/master/Gif2.gif)
