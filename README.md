@@ -5,12 +5,18 @@
 
 ---
 
-### 🏆 Достижения
-[**ТОП-5 победитель IT-контеста от МТС 2023**](https://www.youtube.com/watch?v=2_J7-0AcMMg&t=45s)
+### 📜 Certifications
+[**Google Project Management Certificate**](https://drive.google.com/file/d/1wgXlxEDLJ-KmaYwMqDHGoz-gFPcxrBOB/view)
+
+[**Certificate of Completion - Microservices Architecture with Docker & Kubernetes (Les Jackson / lesjackson.net)**](https://drive.google.com/file/d/1Z-DZo9Z4MTDUro6S4_a1bJKBk5HpsBKy/view)
+
+
+### 🏆 Achievements
+[**Top 5 Winner of the MTS IT Contest 2023**](https://www.youtube.com/watch?v=2_J7-0AcMMg&t=45s)
 
 ---
 
-### 🛠 Проекты
+### 🛠 Projects
 
 #### [TaskWave-AI](https://github.com/Piryutko/TaskWave-AI)
 ![TaskWave-AI](---)
