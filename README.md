@@ -19,7 +19,7 @@
 ### 🛠 Projects
 
 #### [TaskWave-AI](https://github.com/Piryutko/TaskWave-AI)
-![TaskWave-AI](https://github.com/Piryutko/gif_public/blob/master/TaskWave.gif)
+![TaskWave-AI]()
 
 
 ---
