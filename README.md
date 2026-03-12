@@ -21,11 +21,6 @@
 #### [TaskWave-AI](https://github.com/Piryutko/TaskWave-AI)
 ![TaskWave-AI](https://github.com/Piryutko/gif_public/blob/master/TaskWave.gif)
 
-#### [Marketplace API](https://github.com/Piryutko/Marketplace)
-![Marketplace Preview](https://github.com/Piryutko/gif_public/blob/master/Gif2.gif)
-
-#### [Music WebSite](https://github.com/Piryutko/Music_WebSite)
-![Music WebSite Preview](https://github.com/Piryutko/gif_public/blob/master/Music_Gif.gif)
 
 ---
 
