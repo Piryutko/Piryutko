@@ -1,6 +1,6 @@
 <div align="center">
   
-### Piryutko Maxim
+### ピリトコ ・ マカシマ
 #### Project manager
 
 ---
